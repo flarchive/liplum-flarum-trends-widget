@@ -1,0 +1,9 @@
+liplum-trends-widget:
+  admin:
+    limit:
+      label: 讨论限制
+      help: 返回的讨论数量上限。留空时将使用"liplum-trends"扩展的默认值。
+  forum:
+    widget:
+      title: 热门话题
+      empty: 暂无热门话题
