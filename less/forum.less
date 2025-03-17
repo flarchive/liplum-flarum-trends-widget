@@ -1,0 +1,27 @@
+.liplum-trends-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: min-content;
+}
+
+/* Responsive columns */
+@media (min-width: 300px) {
+  .liplum-trends-container {
+    /* Adjust breakpoint as needed */
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+}
+
+.liplum-trends-item {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  line-clamp: 1;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.liplum-trends-item-hot {
+  font-weight: bold;
+  color: #e34c26;
+}
