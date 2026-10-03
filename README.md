@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of liplum/flarum-trends-widget.** Not for installation: use [Packagist](https://packagist.org/packages/liplum/flarum-trends-widget) or the [upstream repository](https://github.com/liplum/flarum-trends-widget).
 
-**0** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/liplum-flarum-trends-widget/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/liplum-flarum-trends-widget/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2025-03-16 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-trends-widget/tree/archive/v0.1.0) |
+| `v0.2.0` | 2025-03-17 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-trends-widget/tree/archive/v0.2.0) |
+| `v0.2.1` | 2025-03-17 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-trends-widget/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/liplum-flarum-trends-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/liplum-flarum-trends-widget.json)
 
